@@ -25,7 +25,8 @@ This project is a single-page website that presents a "Word of the Day." It uses
 ├── style.css           # Stylesheet for design and layout
 └── assets/
     └── images/
-        └── ytalo-marinho-jdBs5h1fNoY-unsplash.jpg  # Main display image
+        ├── ytalo-marinho-jdBs5h1fNoY-unsplash.jpg  # Main display image
+        └── preview.jpg                             # Project screenshot
 ```
 
 🚀 How to Run
